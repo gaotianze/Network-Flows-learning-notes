@@ -1,2 +1,3 @@
 # Network Flows learning notes
- Gtz's Notes
+"Network Flows" Study Notes.
+About the program recurrence please move to "Python code" repository on my Github.
